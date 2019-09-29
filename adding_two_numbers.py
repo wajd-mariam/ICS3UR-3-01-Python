@@ -15,11 +15,11 @@ def main():
     Number2 = input("Enter the second number:")
 
     # process
-    add = float(Number1) + float(Number2)
+    sum = float(Number1) + float(Number2)
 
     # output
     print("")
-    print("The sum of the two numbers is {}".format(add))
+    print("The sum of the two numbers is {}".format(sum))
 
 
 if __name__ == "__main__":
